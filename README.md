@@ -1,4 +1,3 @@
-
 First Steps
 
 git init
